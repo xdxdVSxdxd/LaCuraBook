@@ -1,5 +1,9 @@
 # Strumenti per la creazione di narrative digitali
 
+Gli strumenti nell’elenco che segue permettono di creare narrative digitali. Scrivere, aggiungere immagini, video, mappe, grafica e selezioni di contenuti provenienti dai social network. Per poi essere condivisi sui social network, inseriti (embedded) nei nostri blog o siti web.
+
+Possiamo pensare a questi strumenti come una cassetta degli attrezzi per creare narrative da usare nei tanti modi possibili (ad esempio ogni narrativa potrebbe costituire una iscrizione nel nostro diario, magari ospitato su un blog o sui social network, o l’intero diario, costruito giorno per giorno).
+
 ## StoryBuilder
 Collegamento: http://storybuilder.jumpstart.ge/en
 
