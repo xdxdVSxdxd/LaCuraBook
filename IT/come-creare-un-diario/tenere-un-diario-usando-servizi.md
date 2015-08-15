@@ -42,3 +42,24 @@ Naturalmente, la discussione è molto più complessa di questa, perché le infor
 
 A questo proposito potrebbe risultare interessante l'iniziativa degli [Ubiquitous Commons](http://www.ubiquitouscommons.org/).
 
+# Come fare
+
+Detto questo, ci sono ottimi servizi (anche gratuiti) che offrono qualità eccellenti e che sono anche in grado di affrontare in modo serio i problemi esposti nel breve elenco qui sopra.
+
+Vediamone alcuni. (La lista è aggiornata regolarmente).
+
+# Wordpress
+Collegamento: https://wordpress.com
+
+# Tumblr
+Collegamento: https://www.tumblr.com
+
+# Medium
+Collegamento: https://medium.com/
+
+# Ghost
+Collegamento: https://ghost.org/
+
+# Blogger
+Collegamento: https://www.blogger.com
+
