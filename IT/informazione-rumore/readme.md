@@ -1,0 +1,5 @@
+#L’importanza del Rumore
+
+###Il “rumore” è sempre un fenomeno negativo? Se è vero che, quando cerchiamo una informazione, il rumore costituisce un elemento di disturbo e di difficoltà nel soddisfare i nostri desideri e bisogni, è altrettanto vero che quel che è rumore per una persona può essere, per una seconda persona, lo spazio per la propria libertà di espressione, la propria diversità e, in generale, per esprimere i propri diritti. Il rumore non è sempre negativo. Può essere il segnale di fondo che ci permette di distinguere il soggetto, ciò che è importante. Può essere il fattore scatenante per l’innovazione: le particelle “impazzite” del rumore possono scatenare reazioni inaspettate e imprevedibili. Il rumore è trasgressivo e disturbante, e, in quanto tale, ci può aiutare a svegliarci, e ad accorgerci delle cose.
+
+Nel workshop prenderemo vari tipi di rumore – dal suono, all’informazione, passando per la cucina, la sessualità, l’arte, l’ingegneria, la moda, la malattia e tanti altri ambiti – e cercheremo di capire in quali modi potrebbe essere importante. Poi, semplicemente, faremo rumore. Utile, però.
