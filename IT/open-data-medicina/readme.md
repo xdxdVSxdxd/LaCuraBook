@@ -1,0 +1,5 @@
+#Open Data e Medicina
+
+###Dalle cartelle cliniche, ai risultati della sperimentazione di nuovi farmaci, fino ad arrivare al genoma umano e alla possibilità di produrre enormi quantità di dati collegando dispositivi ai nostri corpi. La medicina ha molti interessi nel campo dei dati e della disponibilità delle informazioni. Quali sono le implicazioni?
+
+Il workshop parte dall’analisi delle modalità secondo cui la medicina contemporanea si sta interessando ai temi dei dati medici e, in generale, che derivano dalla misurazione del corpo umano e delle sue caratteristiche. Ci chiederemo quali sono le implicazioni di tali processi e penseremo ai modelli possibili secondo cui potrebbero essere realizzati in modi più interessanti e significativi. Poi faremo un esperimento: creeremo una nuova pratica, una nuova abitudine, usando strumenti online di facile utilizzo per misurare le nostre emozioni, la nostra alimentazione, il nostro  esercizio fisico, il nostro benessere. Studieremo le implicazioni critiche di queste pratiche e le opportunità che aprono.
