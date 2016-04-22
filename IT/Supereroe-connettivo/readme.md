@@ -29,4 +29,5 @@ Per progettare il supereroe interconnettivo abbiamo preso spunto da diversi esem
 * [Occupy, il 99%](https://it.wikipedia.org/wiki/Occupy_Wall_Street)
 * [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
 
+Le sottocartelle conterranno progressivamente i supereoi interconnettivi progettati nel workshop.
 
