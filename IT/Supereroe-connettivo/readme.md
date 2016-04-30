@@ -28,6 +28,7 @@ Per progettare il supereroe interconnettivo abbiamo preso spunto da diversi esem
 * [Luther Blissett](https://it.wikipedia.org/wiki/Luther_Blissett_(pseudonimo))
 * [Occupy, il 99%](https://it.wikipedia.org/wiki/Occupy_Wall_Street)
 * [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
+* [Anna Adamolo, L'Onda](https://it.wikipedia.org/wiki/Onda_(movimento_studentesco)) [Anna Adamolo](http://www.ministeroistruzione.net/site/)
 
 Le sottocartelle conterranno progressivamente i supereoi interconnettivi progettati nel workshop.
 
