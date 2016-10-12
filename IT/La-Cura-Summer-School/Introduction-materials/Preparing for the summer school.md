@@ -4,28 +4,29 @@ We aim to create an environment which is as collaborative and participative as p
 
 This document includes:
 
-An introduction
-A description of what will be the outputs/takeaways coming from the summer school
-Program structure for the summer school
-A commented reading list for the various topics which we will confront with
-The structure of the materials which will be produced for the summer school
-The collaboration and communication tools we will use
+- An introduction
+- A description of what will be the outputs/takeaways coming from the summer school
+- Program structure for the summer school
+- A commented reading list for the various topics which we will confront with
+- The structure of the materials which will be produced for the summer school
+- The collaboration and communication tools we will use
 
 
-Introduction
-Summer School outputs/takeaways
-Program structure
-Commented reading list
-Extending Senses
-Data, Information
-Social Networks
-Identity
-Generative/Wearable Art
-Materials
-Communication/Collaboration tools
+_Table of contents_
+- Introduction
+- Summer School outputs/takeaways
+- Program structure
+- Commented reading list
+- Extending Senses
+- Data, Information
+- Social Networks
+- Identity
+- Generative/Wearable Art
+- Materials
+- Communication/Collaboration tools
 
 
-Introduction
+# Introduction
 This will be a peculiar summer school. It originates from a project called La Cura, which created a global performance engaging millions of people to transform what it means to cure and to confront with the complex problems of our society, creating wide processes in which sciences, arts, technologies, design, architecture and society collaborate and interconnect.
 
 When, on March 2016, the book narrating La Cura came out in Italy, many things started happening. People started wondering whether this approach could be used to do different things, and they found out that they could. Connecting disciplines, methods, approaches, people and technologies, to bring up collaborative, sincere, efforts in which confronting with (and solving) problems was a matter of engaging the whole of society really seemed a good idea to confront with the complex issues of our planet: education, energy, agriculture, economy, and more. Workshop, lectures, participatory actions, PhDs, research projects started forming around a growing community. And the process continues.
