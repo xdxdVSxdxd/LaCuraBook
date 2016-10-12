@@ -1,3 +1,5 @@
+# Preparing for the summer school
+
 This document includes information for both teachers, tutors and students, to highlight what we think is needed to get ready for the summer school.
 
 We aim to create an environment which is as collaborative and participative as possible. That includes the fact that everyone is invited to contribute to this document, to be able to bring up a constructive discussion about what we would really like to to during the summer school, and in preparation for the exhibit at La Triennale.
