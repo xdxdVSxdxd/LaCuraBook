@@ -60,81 +60,85 @@ What would happen if we designed a technology, a method, something, which could 
 What would happen if we created an additional sense which, in perspective, could help us to sense the myriads of ways in which people express the ways in which they “inhabit the planet”, on our skins and bodies, to experience the “ubiquitous body” and, thus, to take active part in this collective performance?
 
 This is what we will explore during the summer school.
-Summer School outputs/takeaways
+
+## Summer School outputs/takeaways
 During the summer school we will produce many different outputs and obtain different takeaways.
 
 This below is a preliminary list:
 
-A series of skills and competences
-There will be multiple threads going on in the summer school
-BigData
-Social Media listening/monitoring/analysis 
-Algorithms
-Data Visualization, Information Visualization, Information Aesthetics
-Physical Computing, Wearable Technologies, Network Connected devices
-Identity, Branding, Meta-Branding
-Participants to the summer school will receive basic training on all of these topics, including overviews and compendiums of all of the ways in which all of these topics can be confronted with
-Then, groups will form, each on a single thread, to dive deep into each topic; here of all of the techniques explored in the overview we will study in deep one of them, to be able to contribute to a real project, the one we will implement in the summer school
-A series of philosophical, technical, technological considerations
-Each of the topics of the summer school has profound, complex, critical implications. Data and interface politics, privacy, surveillance, human rights and freedoms, legal issues, accessibility issues, digital, cultural, economic and technological divides, and more. While we explore the various technologies and techniques we will also take into account all of these issues, trying to assess them and to integrate the implications in our work
-An exhibit at La Triennale di Milano, at the Expogate, for the Condividi la Conoscenza event
-At the summer school we will produce a triptych of works which will be exhibited at La Triennale:
-An installation
-A wearable device
-A real-time information visualization
-Each will form a part of the overall concept for our augmented sense: the wearable for the body, the installation for the space, the visualization for the city
-Participants will all be credited for the production, which will be documented in a catalogue
-A new technological concept
-The theme of creating an augmented sense has multiple valences and interpretations, and is a concept which is researched in multiple forms. The possibility to bring a technological sensibility to the body (sometimes called senseability) to groups of people and to entire cities, enabling them to sensorially experience complex phenomena, is a theme which has multiple usages: from disabilities, to the care for children and elderly, to industrial applications, to many more commercial, medical or entertaining usage scenarios. On top of that there are multiple interesting researches about how digital data can be used to stimulate the body to create additional sensibilities, and of the ways in which our brain’s plasticity can learn how to interpret them, leading to becoming a true additional sensoriality.
+- A series of skills and competences
+    - There will be multiple threads going on in the summer school
+        - BigData
+        - Social Media listening/monitoring/analysis 
+        - Algorithms
+        - Data Visualization, Information Visualization, Information Aesthetics
+        - Physical Computing, Wearable Technologies, Network Connected devices
+        - Identity, Branding, Meta-Branding
+    - Participants to the summer school will receive basic training on all of these topics, including overviews and compendiums of all of the ways in which all of these topics can be confronted with
+    - Then, groups will form, each on a single thread, to dive deep into each topic; here of all of the techniques explored in the overview we will study in deep one of them, to be able to contribute to a real project, the one we will implement in the summer school
+- A series of philosophical, technical, technological considerations
+    - Each of the topics of the summer school has profound, complex, critical implications. Data and interface politics, privacy, surveillance, human rights and freedoms, legal issues, accessibility issues, digital, cultural, economic and technological divides, and more. While we explore the various technologies and techniques we will also take into account all of these issues, trying to assess them and to integrate the implications in our work
+- An exhibit at La Triennale di Milano, at the Expogate, for the Condividi la Conoscenza event
+    - At the summer school we will produce a triptych of works which will be exhibited at La Triennale:
+        - An installation
+        - A wearable device
+        - A real-time information visualization
+    - Each will form a part of the overall concept for our augmented sense: the wearable for the body, the installation for the space, the visualization for the city
+    - Participants will all be credited for the production, which will be documented in a catalogue
+- A new technological concept
+    - The theme of creating an augmented sense has multiple valences and interpretations, and is a concept which is researched in multiple forms. The possibility to bring a technological sensibility to the body (sometimes called senseability) to groups of people and to entire cities, enabling them to sensorially experience complex phenomena, is a theme which has multiple usages: from disabilities, to the care for children and elderly, to industrial applications, to many more commercial, medical or entertaining usage scenarios. On top of that there are multiple interesting researches about how digital data can be used to stimulate the body to create additional sensibilities, and of the ways in which our brain’s plasticity can learn how to interpret them, leading to becoming a true additional sensoriality.
 Our work will be, at the same time, an artwork, a design research process, and a scientific exploration, thus interconnecting arts, sciences, technologies and society
-A series of technological and conceptual skills
-We will actually make things, in order to transform what we learned into the capacity to make stuff.
-All of the things which we learn will be documented and distributed using open licenses (such as CC or GNU), so that other people will be able to benefit from them
-An open source project, which people will be able to use
-Also the work which we will produce during the summer school (software code, schematics, 3d Models, How-to’s…) will be released as open source, so that it will be possible to both freely reuse them in other cases, and to contribute to their further expansion
-A series of reports about how people in the world use technologies
-And, then, one last thing, which sadly is not discussed enough when dealing with technologies. When we look, for example, at any map showing social networking activities, we will see some areas/times with no data. Always. And they’re always the same. This is not simply due to the fact that the people there don’t feel like using Facebook or Twitter. There are multiple divides in place: do the people there know how to use technology? Can they afford it? Is it in their imagination/culture to express using technology? Is there network coverage in that place? Is there electricity? Water? And so on. To this day many, many people cannot access and use technologies. This has enormous implications: how can, then, we use technologies to interconnect with All of the planet? How can we confront with these divides? What is on the map is just as interesting as what is not on the map. And we will confront with this, too.
-Program structure
+- A series of technological and conceptual skills
+    - We will actually make things, in order to transform what we learned into the capacity to make stuff.
+    - All of the things which we learn will be documented and distributed using open licenses (such as CC or GNU), so that other people will be able to benefit from them
+- An open source project, which people will be able to use
+    - Also the work which we will produce during the summer school (software code, schematics, 3d Models, How-to’s…) will be released as open source, so that it will be possible to both freely reuse them in other cases, and to contribute to their further expansion
+- A series of reports about how people in the world use technologies
+    - And, then, one last thing, which sadly is not discussed enough when dealing with technologies. When we look, for example, at any map showing social networking activities, we will see some areas/times with no data. Always. And they’re always the same. This is not simply due to the fact that the people there don’t feel like using Facebook or Twitter. There are multiple divides in place: do the people there know how to use technology? Can they afford it? Is it in their imagination/culture to express using technology? Is there network coverage in that place? Is there electricity? Water? And so on. To this day many, many people cannot access and use technologies. This has enormous implications: how can, then, we use technologies to interconnect with All of the planet? How can we confront with these divides? What is on the map is just as interesting as what is not on the map. And we will confront with this, too.
+
+## Program structure
 This is just a preliminary description of what will happen during the summer school, given here so that we all have a sense of what is going to take place and that we can also participate to moving things around if there’s something that is not clear or which seems insufficient or lacking some detail.
 
 Here we go:
 
-Day 1
-Morning
-We will meet each other and discuss our objectives for the summer school
-We will introduce the tools and methods we will use, and the ways in which different groups will collaborate with each other
-Afternoon
-Overviews: a series of short lectures in which we will explore all the many ways in which it is possible to confront with the techniques, technologies, methods and approaches that are relevant for the theme of the summer school
-Groups: we will form the groups which will focus on the various aspects of the work
+- Day 1
+    - Morning
+        - We will meet each other and discuss our objectives for the summer school
+        - We will introduce the tools and methods we will use, and the ways in which different groups will collaborate with each other
+    - Afternoon
+        - Overviews: a series of short lectures in which we will explore all the many ways in which it is possible to confront with the techniques, technologies, methods and approaches that are relevant for the theme of the summer school
+        - Groups: we will form the groups which will focus on the various aspects of the work
 Coordination: describe the data we are going to have available during the process, find an agreement on the ways in which to leverage and use such data, establish some working protocols on how to process and shape the data according to the needs of the groups and kick-off the activities of the groups.
-Day 2
-Morning
-Overviews: the second part of the short overview lectures
-Groups: we will set up the operating environments used by the groups
-Afternoon
-Group work: the groups work on their area
-Day 3
-Morning
-Assembly: the groups present each other the advancement of their work, a discussion follows, to highlight issues, problems, advice, unexpected and emergent topics, and the additional ideas which might have come up
-Group work: the groups work on their area
-Afternoon
-Group work: the groups work on their area
-Day 4
-Morning
-Assembly: the groups present each other the advancement of their work, a discussion follows, to highlight issues, problems, advice, unexpected and emergent topics, and the additional ideas which might have come up
-Group work: the groups work on their area
-Afternoon
-Group work: the groups work on their area
-Day 5
-Morning
-Group work: the groups work on their area, proceeding to finalising their work
-Afternoon
-FINAL: the outputs are assembled to form the final outcome of the summer school
-Presentation: each group presents its final outcomes and considerations
-Organization: we discuss and agree on the next steps (exhibit, communication, dissemination, other opportunities)
-Party! :)
-Commented reading list
-Extending Senses
+- Day 2
+    - Morning
+        - Overviews: the second part of the short overview lectures
+        - Groups: we will set up the operating environments used by the groups
+    - Afternoon
+        - Group work: the groups work on their area
+- Day 3
+    - Morning
+        - Assembly: the groups present each other the advancement of their work, a discussion follows, to highlight issues, problems, advice, unexpected and emergent topics, and the additional ideas which might have come up
+        - Group work: the groups work on their area
+    - Afternoon
+        - Group work: the groups work on their area
+- Day 4
+    - Morning
+        - Assembly: the groups present each other the advancement of their work, a discussion follows, to highlight issues, problems, advice, unexpected and emergent topics, and the additional ideas which might have come up
+        - Group work: the groups work on their area
+    - Afternoon
+        - Group work: the groups work on their area
+- Day 5
+    - Morning
+        - Group work: the groups work on their area, proceeding to finalising their work
+    - Afternoon
+        - FINAL: the outputs are assembled to form the final outcome of the summer school
+        - Presentation: each group presents its final outcomes and considerations
+        - Organization: we discuss and agree on the next steps (exhibit, communication, dissemination, other opportunities)
+        - Party! :)
+        
+# Commented reading list
+
+*Extending Senses*
 "Ignore the GPS. That Ocean Is Not a Road.", GREG MILNER
 http://www.nytimes.com/2016/02/14/opinion/sunday/ignore-the-gps-that-ocean-is-not-a-road.html 
 On the ways our senses are changing: when we believe more what we see on the GPS and navigator than what we see with our own eyes.
@@ -162,7 +166,7 @@ https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans?lan
 As humans, we can perceive less than a ten-trillionth of all light waves. “Our experience of reality,” says neuroscientist David Eagleman, “is constrained by our biology.” He wants to change that. His research into our brain processes has led him to create new interfaces — such as a sensory vest — to take in previously unseen information about the world around us.
 
 
-Data, Information
+*Data, Information*
 "My thoughts on the smart city", Rem Koolhaas
 http://ec.europa.eu/archives/commission_2010-2014/kroes/en/content/my-thoughts-smart-city-rem-koolhaas.html 
 What is the role of transgression in the smart city?
@@ -202,7 +206,7 @@ https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-
 
 
 
-Social Networks
+*Social Networks*
 "Life on Screen: Identity in the Age of the Internet", Sherry Turkle
 http://web.mit.edu/sturkle/www/Life-on-the-Screen.html 
 Life on the Screen is a book not about computers, but about people and how computers are causing us to reevaluate our identities in the age of the Internet. We are using life on the screen to engage in new ways of thinking about evolution, relationships, politics, sex, and the self.
@@ -243,7 +247,7 @@ The topic is, in itself, very interesting, but the way in which such experiments
 
 
 
-Identity
+*Identity*
 "Improper Names: Collective Pseudonyms from the Luddites to Anonymous", Marco Deseriis
 https://muse.jhu.edu/book/42021 
 On one hand, the improper name embeds the shielding effect of any pseudonym, that is, the pseudonym’s nominal function of protecting an individual by substituting her legal name qua marker of her identity. On the other hand, an improper name functions as an open multiplicity that can hardly be disambiguated and assigned a discrete referent.
@@ -271,7 +275,7 @@ https://mitpress.mit.edu/books/architecture-outside
 How is architecture experienced “from the outside”? By people who cannot access it? By those who are homeless, poor, different? And what has this got to do with technology, innovation, ecology and art? Philosopher Elizabeth Grosz, in this book, explores the Excess Space, and describes the opportunities which come from transgression and difference.
 
 
-Generative/Wearable Art
+*Generative/Wearable Art*
 
 "Divergent Generative Art Practices", Dejan Grba, Vladimir Todorović, Tatjana Todorović, Andreas Schlegel, Melentie Pandilovski
 https://isea2016.scm.cityu.edu.hk/openconf/modules/request.php?module=oc_program&action=view.php&id=405&type=4&a= 
@@ -312,28 +316,28 @@ Through this production we have become a peculiar type of sculptors, transformin
 
 
 
-Materials
+*Materials*
 There will be materials dedicated to the whole summer school and to each of the groups in which the work will develop. Obviously, each participant will have access to all the materials, and not only to the ones of their group.
 
 Dedicated to the whole school:
 
-General reading list
-Plenary presentations materials, including online repository and reference links to videos, datasets, interactive experiences…
-Human Ecosystems software platform
-Contacts list for all participants
-Certificate of participation
+- General reading list
+- Plenary presentations materials, including online repository and reference links to videos, datasets, interactive experiences…
+- Human Ecosystems software platform
+- Contacts list for all participants
+- Certificate of participation
 
 Dedicated each group:
 
-Reading list dedicated to each area of work
-Overview presentation materials, covering for each area an array of the possible ways, methods and technologies which can be used to confront with that specific domain, complete with resources, reference links, case studies, links to how-tos and tutorials
-Detail presentation materials, covering the strategy/approach/technology which will be used in depth during the summer school: of all the possible approaches presented during the overviews, we will use one, explaining why we chose it and how it allows to properly achieve our objectives. Links and references will be provided to case studies, tutorials, how-tos and tools.
-Library/repository of software tools, schematics, libraries, components lists, configuration patterns, documentation, which can be used to do similar projects
-A report on the activities which will show the steps of the process, the ways in which different groups have collaborated, and a review of the critical issues and of the ways in which they have been solved (so that people wishing to do the same things will be able to benefit from this)
+- Reading list dedicated to each area of work
+- Overview presentation materials, covering for each area an array of the possible ways, methods and technologies which can be used to confront with that specific domain, complete with resources, reference links, case studies, links to how-tos and tutorials
+- Detail presentation materials, covering the strategy/approach/technology which will be used in depth during the summer school: of all the possible approaches presented during the overviews, we will use one, explaining why we chose it and how it allows to properly achieve our objectives. Links and references will be provided to case studies, tutorials, how-tos and tools.
+- - Library/repository of software tools, schematics, libraries, components lists, configuration patterns, documentation, which can be used to do similar projects
+- A report on the activities which will show the steps of the process, the ways in which different groups have collaborated, and a review of the critical issues and of the ways in which they have been solved (so that people wishing to do the same things will be able to benefit from this)
 
-Communication/Collaboration tools
+## Communication/Collaboration tools
 There are 3 types of tools we will use for communication and collaboration:
 
-Tools to communicate among all participants and with the participants of the single groups
-Tools to store documents, software, configurations, schematics, images, application files and other digital assets
-Tools to perform the interactions which will go on among the different groups
+- Tools to communicate among all participants and with the participants of the single groups
+- Tools to store documents, software, configurations, schematics, images, application files and other digital assets
+- Tools to perform the interactions which will go on among the different groups
