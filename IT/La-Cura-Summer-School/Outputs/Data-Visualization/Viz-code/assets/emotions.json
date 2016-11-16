@@ -1,0 +1,51 @@
+[{
+  "id": 0,
+  "label": "all",
+  "comfort": null,
+  "energy": null
+}, {
+  "id": 1,
+  "label": "surprise",
+  "comfort": -6,
+  "energy": 221
+}, {
+  "id": 2,
+  "label": "happiness",
+  "comfort": 205,
+  "energy": 82
+}, {
+  "id": 3,
+  "label": "pleasure",
+  "comfort": 186,
+  "energy": 2
+}, {
+  "id": 4,
+  "label": "relax",
+  "comfort": 98,
+  "energy": -136
+}, {
+  "id": 5,
+  "label": "sadness",
+  "comfort": -210,
+  "energy": -86
+}, {
+  "id": 6,
+  "label": "anger",
+  "comfort": -201,
+  "energy": 100
+}, {
+  "id": 7,
+  "label": "fear",
+  "comfort": -165,
+  "energy": 150
+}, {
+  "id": 8,
+  "label": "agitation",
+  "comfort": -88,
+  "energy": 139
+}, {
+  "id": 9,
+  "label": "pain",
+  "comfort": -37,
+  "energy": 96
+}]
