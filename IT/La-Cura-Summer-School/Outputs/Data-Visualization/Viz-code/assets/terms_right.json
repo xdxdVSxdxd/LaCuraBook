@@ -1,0 +1,56 @@
+[{
+"id": 0,
+"label": "uninhabit",
+"researchTwitter": 45,
+"researchInsta": 44
+},{
+"id": 1,
+"label": "deserted",
+"researchTwitter": 50,
+"researchInsta": 48
+},{
+"id": 2,
+"label": "desolate",
+"researchTwitter": 53,
+"researchInsta": 52
+},{
+"id": 3,
+"label": "vacant",
+"researchTwitter": 57,
+"researchInsta": 56
+},{
+"id": 4,
+"label": "abandoned",
+"researchTwitter": 62,
+"researchInsta": 61
+},{
+"id": 5,
+"label": "unoccupied",
+"researchTwitter": 71,
+"researchInsta": 70
+},{
+"id": 6,
+"label": "empty",
+"researchTwitter": 69,
+"researchInsta": 68
+},{
+"id": 7,
+"label": "forsaken",
+"researchTwitter": 75,
+"researchInsta": 74
+},{
+"id": 8,
+"label": "leave",
+"researchTwitter": 79,
+"researchInsta": 78
+},{
+"id": 9,
+"label": "free",
+"researchTwitter": 87,
+"researchInsta": 82
+},{
+"id": 10,
+"label": "lifeless",
+"researchTwitter": 86,
+"researchInsta": 85
+}]

@@ -1,0 +1,56 @@
+[{
+  "id": 0,
+  "label": "inhabit",
+  "researchTwitter": 41, 
+  "researchInsta": 40
+},{ 
+  "id": 1,
+  "label": "locate",
+  "researchTwitter": 47, 
+  "researchInsta": 46
+},{
+  "id": 2,
+  "label": "occupy",
+  "researchTwitter": 51, 
+  "researchInsta": 49
+},{
+  "id": 3,
+  "label": "populate",
+  "researchTwitter": 54, 
+  "researchInsta": 55
+},{
+  "id": 4,
+  "label": "possess",
+  "researchTwitter":59, 
+  "researchInsta": 60
+},{
+  "id": 5,
+  "label": "reside",
+  "researchTwitter": 63, 
+  "researchInsta": 64
+},{
+  "id": 6,
+  "label": "abide",
+  "researchTwitter": 66, 
+  "researchInsta": 67
+},{
+  "id": 7,
+  "label": "lodge",
+  "researchTwitter": 72, 
+  "researchInsta": 73
+},{
+  "id": 8,
+  "label": "dwell",
+  "researchTwitter": 76, 
+  "researchInsta": 77
+},{
+  "id": 9,
+  "label": "settle",
+  "researchTwitter": 80, 
+  "researchInsta": 81
+},{
+  "id": 10,
+  "label": "stay",
+  "researchTwitter": 83, 
+  "researchInsta": 84
+}]
