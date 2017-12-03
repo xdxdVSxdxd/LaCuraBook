@@ -35,6 +35,7 @@ __2 hours__
 Each person has to bring
 
 - 1 object which describes themselves, and/or their personal history
+	- a fragment of your self, that said: a fragment of your memory under analog form. It can be a photo, an object, a memory of the past written on a piece of paper, a pair of shoes or socks, or even a digital memory but printed. Something that, for thousand of reasons, you consider a “chunk of you”
 - 1 label for the object (text of about 200-400 charachters)
 - 1 longer text for the object (a longer text)
 
