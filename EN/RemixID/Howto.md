@@ -2,7 +2,7 @@
 ## How does the workshop work?
 
 ### First Phase: The Welcome
-__1 hour__
+__1.5 hours__
 
 The firt phase is the welcome, in which we understand who we're working with.
 
@@ -21,10 +21,14 @@ The objective is to understand who this person is, as much as possible, to imper
 After the 30 minutes are over, each one presents the other in 1 minute by impersonating them, something like _"Hello, I'm XYZ and I'm blablabla, I love blablabla, an important event in my life has been blablabla..."_
 
 ### Second Phase: Theory
-__1 hour__
+__1.5 hours__
+
+Look for slides in the [materials folder](https://github.com/xdxdVSxdxd/LaCuraBook/tree/master/EN/RemixID/materials)
 
 ### Third Phase: Chunks of Self
-__1 hour__
+__2 hours__
+
+
 
 ### Fourth Phase: Software & Tech
 __1 hour__

@@ -9,6 +9,9 @@ How this transformations affect our public, private and intimate space?
 
 RemixID is a 3 day hands-on workshop to explore the boundary of the self and of the concept of identity in the era of ubiquitous technology, social networks and algorithmic mediation.
 
+__[How does the workshop work?](https://github.com/xdxdVSxdxd/LaCuraBook/blob/master/EN/RemixID/Howto.md)__
+
+
 ### editions
 
 [at Media Arts Festival in Rome](http://www.artisopensource.net/?post_type=post&p=4236)
