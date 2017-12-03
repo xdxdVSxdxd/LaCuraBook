@@ -20,24 +20,40 @@ The objective is to understand who this person is, as much as possible, to imper
 
 After the 30 minutes are over, each one presents the other in 1 minute by impersonating them, something like _"Hello, I'm XYZ and I'm blablabla, I love blablabla, an important event in my life has been blablabla..."_
 
+...
+
 ### Second Phase: Theory
 __1.5 hours__
 
 Look for slides in the [materials folder](https://github.com/xdxdVSxdxd/LaCuraBook/tree/master/EN/RemixID/materials)
 
+...
+
 ### Third Phase: Chunks of Self
 __2 hours__
 
+Each person has to bring
 
+- 1 object which describes themselves, and/or their personal history
+- 1 label for the object (text of about 200-400 charachters)
+- 1 longer text for the object (a longer text)
+
+...
 
 ### Fourth Phase: Software & Tech
 __1 hour__
 
+...
+
 ### Fifth Phase: Images
 __1 hour__
 
+...
+
 ### Sixth Phase: Production
 __1 hour__
+
+...
 
 ### Seventh Phase: Exhibit
 __1 hour__
