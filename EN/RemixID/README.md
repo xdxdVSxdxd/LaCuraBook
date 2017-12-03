@@ -1,6 +1,8 @@
 # RemixID
 ## a workshop on the Self and on Identity
 
+![RemixID](http://www.artisopensource.net/network/artisopensource/wp-content/uploads/2017/11/000031.png "RemixID")
+
 What is the self?
 
 What happens when this complex cultural apparatus is mediated through algorithms and technologies?
