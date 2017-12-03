@@ -39,10 +39,31 @@ Each person has to bring
 - 1 label for the object (text of about 200-400 charachters)
 - 1 longer text for the object (a longer text)
 
+The objects will be discussed and used to explore the self and how it is constructed, by the person and by the others.
+
+The objects will participate to forming the final exhibit.
+
 ---
 
 ### Fourth Phase: Software & Tech
-__1 hour__
+__2 hour__
+
+Several technologies will be used to demonstrate the implications of data and algorithms on the construction and communication of the self and identity.
+
+Among the themes, topics and technologies used are:
+
+- social media
+- computer vision (including object recognition, face recognition etc)
+- data
+- sensors
+- mobile phones
+- filter bubbles, echo chambers
+- social engineering
+
+a series of experiments will be created, using multiple technologies and techniques. 
+
+You can find examples of things produced in the previous editions in the [materials folder](https://github.com/xdxdVSxdxd/LaCuraBook/tree/master/EN/RemixID/materials)
+
 
 ---
 
